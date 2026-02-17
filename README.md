@@ -2,6 +2,7 @@
 
 **Name:** Avanthika Ayyadurai  
 **UID:** 134004469
+
 **Email:** avaayyaduraitamu@tamu.edu
 ## Highest Task Completed
 - Task 7 : mouse interactions
